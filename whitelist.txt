@@ -1,2 +1,2 @@
 @@||*.helmiau.com^$document
-@@||*.sfl.gl^
+@@||sfl.gl^
